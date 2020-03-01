@@ -1,5 +1,5 @@
-#About
+About
 
-###O365 Developer
+O365 Developer
 
 [Home](index.md)
