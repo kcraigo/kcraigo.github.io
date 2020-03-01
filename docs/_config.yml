@@ -22,7 +22,7 @@ title: WebDev By The Bay
 email: info@webdevbythebay.com
 description: >- # this means to ignore newlines until "baseurl:"
   O365 App Developer
-baseurl: "kcraigo.git.io" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: keithcraigo
 github_username:  kcraigo
