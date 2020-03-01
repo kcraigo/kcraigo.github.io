@@ -1,2 +1,3 @@
-#WebDev By The Bay
+WebDev By The Bay
+
 [About](about.md)
